@@ -17,7 +17,7 @@ If you find a bug or have a feature request, please open an issue on GitHub. If 
 
 ## Author
 
-Primo Data
+**Primo Data**
 - Twitter: [@Primo_Data](https://twitter.com/Primo_Data)
 - Email: max@primodata.org
 
