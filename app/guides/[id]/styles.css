@@ -1,0 +1,18 @@
+.content a {
+  color: blue;
+  text-decoration: underline;
+}
+
+.content p {
+  margin-bottom: 1em;
+}
+
+ul,
+ol {
+  list-style-type: initial; /* For ul, this will be disc; for ol, this will be decimal */
+  padding-left: 40px; /* Adjust as needed */
+}
+
+li {
+  margin-bottom: 10px;
+}
