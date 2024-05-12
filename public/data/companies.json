@@ -8,12 +8,12 @@
     "logo": "https://pbs.twimg.com/profile_images/1778926940407132160/UEwR3lHt_400x400.jpg",
     "type": "Blockchain",
     "category": "Onchain Data",
-    "description": "Accurate, Fast, Simple blockchain data delivered to your desired data destination. We support 15 blockchains in both real-time and enriched schemas, with capabilities to index additional blockchains swiftly.",
+    "description": "Accurate, Fast, Simple blockchain data delivered directly to your desired destination. We support 23 blockchains across 100+ real-time and enriched schemas, with capabilities to swiftly index additional blockchains.",
     "sponsor": "1. Gold",
     "products": "API; Data Warehouse; Kafka; PubSub; Data Share - Snowflake; Data Share - BigQuery; Data Share - Databricks; Dashboard",
     "slug": "allium",
     "docs": "https://docs.allium.so/",
-    "chains": "Arbitrum One; Avalanche; Base; Bitcoin; BSC; Ethereum; Ethereum - Beacon; Oasys; Optimism; Polygon; Polygon zkEVM; Scroll; Solana; Starknet; Tron"
+    "chains": "Arbitrum One; Avalanche; Base; Blast; Bitcoin; BSC; Celo; Ethereum; Ethereum - Beacon; Fraxtal; Immutable zkEVM; Kroma; Oasys; Optimism; Osmosis; Polygon; Polygon zkEVM; Scroll; Solana; Starknet; Tron; WeMix; Zora"
   },
   {
     "id": 12824,
