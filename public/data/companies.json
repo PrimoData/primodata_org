@@ -2360,12 +2360,28 @@
     "logo": "https://pbs.twimg.com/profile_images/1733538959286779904/OClTtbr6_400x400.jpg",
     "type": "Blockchain",
     "category": "Onchain Data",
-    "description": "GhostLogs by SnowGenesis lets developers fork existing smart contracts, inject modifications, backfill historical data, and frontfill with a custom RPC fork",
+    "description": "GhostLogs lets developers fork existing smart contracts, inject gasless events and modifications, backfill historical data, and frontfill with a custom RPC fork",
     "sponsor": "",
     "products": "",
     "slug": "ghostlogs",
-    "docs": "",
-    "chains": ""
+    "docs": "https://docs.ghostlogs.xyz",
+    "chains": "Ethereum; Base"
+  },
+  {
+    "id": 13082,
+    "created_at": "2024-05-12 01:04:41.618513+00",
+    "name": "GhostGraph",
+    "website": "https://ghostgraph.xyz/",
+    "twitter": "https://twitter.com/0xGhostLogs",
+    "logo": "https://pbs.twimg.com/profile_images/1733538959286779904/OClTtbr6_400x400.jpg",
+    "type": "Blockchain",
+    "category": "Onchain Data",
+    "description": "The blazingly fast way to spin an indexer for your smart contracts. All in Solidity",
+    "sponsor": "",
+    "products": "Indexer",
+    "slug": "ghostgraph",
+    "docs": "https://docs.ghostlogs.xyz/ghostgraph/overview",
+    "chains": "Blast"
   },
   {
     "id": 13084,
@@ -4098,9 +4114,9 @@
   {
     "id": 13427,
     "created_at": "2024-03-13 01:04:41.941059+00",
-    "name": "Snow Genesis",
+    "name": "SnowGenesis",
     "website": "https://snowgenesis.com/",
-    "twitter": "https://twitter.com/0xGhostLogs",
+    "twitter": "https://twitter.com/0xSnowGenesis",
     "logo": "https://pbs.twimg.com/profile_images/1733539499362111489/A5jGNeaJ_400x400.jpg",
     "type": "Blockchain",
     "category": "NFT Data",
@@ -4109,7 +4125,7 @@
     "products": "",
     "slug": "snow-genesis",
     "docs": "",
-    "chains": ""
+    "chains": "Ethereum"
   },
   {
     "id": 13429,
