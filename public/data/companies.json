@@ -3936,6 +3936,22 @@
     "chains": ""
   },
   {
+    "id": 14000,
+    "created_at": "2024-05-14 00:00:00.000000+000",
+    "name": "RWA.xyz",
+    "website": "https://rwa.xyz/?utm_source=primo-data",
+    "twitter": "https://twitter.com/rwa_xyz",
+    "logo": "https://rwa-app-public.s3.us-east-1.amazonaws.com/icon.jpeg",
+    "type": "Blockchain",
+    "category": "Speciality Data",
+    "description": "RWA.xyz is the industry-standard data provider for tokenized real-world assets. Financial institutions, issuers, and researchers use our reference and market data to understand the emerging RWA tokenization space. Data is available via API, dashboard, Delta Share, and downloadable CSVs and XLSXs.",
+    "sponsor": "",
+    "products": "API; Dashboard; Data Share - Databricks, Excel, Download - CSV, Download - XLSX",
+    "slug": "rwa-xyz",
+    "docs": "https://docs.rwa.xyz/",
+    "chains": "Ethereum; Solana; Binance Smart Chain; TRON; Polygon; Arbitrum; Stellar; Provenance; XDC; Optimism;"
+  },
+  {
     "id": 13414,
     "created_at": "2024-03-13 01:04:41.941059+00",
     "name": "SEDA",
