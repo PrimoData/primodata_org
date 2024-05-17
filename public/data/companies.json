@@ -2295,13 +2295,13 @@
     "twitter": "https://twitter.com/flipsidecrypto",
     "logo": "https://pbs.twimg.com/profile_images/1658503811189850112/yQRHOhdB_400x400.jpg",
     "type": "Blockchain",
-    "category": "Onchain Data",
-    "description": "Thrive in Web3 with access to the best data. Including Ethereum, Solana, Osmosis, Flow, NEAR, Axelar, Thorchain, Optimism, Terra, Binance and many more.",
+    "category": "Communities & Learning; Data Tools; Enterprise Research; Market Data; NFT Data; Onchain Data; Product Analytics; DeFi; Specialty Data",
+    "description": "Flipside Crypto is a leading on-chain data analytics provider. With the most reliable blockchain data in the market, our expertly-modeled datasets are trusted by +100,000 analysts and protocols. Access data for free on top chains like Ethereum, Solana, Bitcoin, Avalanche and dozens more.",
     "sponsor": "",
-    "products": "",
+    "products": "Data Visualization Studio; API; SDK; Growth Services; Data Warehouse; Data Shares - Snowflake; Dashboards; Excel Exports; Earn",
     "slug": "flipside",
     "docs": "https://docs.flipsidecrypto.com/",
-    "chains": ""
+    "chains": "Aptos; Aurora; Avalanche; Axelar; Base; Bitcoin; Blast; BSC; Cosmos; Crosschain; Ethereum; Flow; Gnosis; Lava; Klatyn; Near; Optimism; Osmosis; Polygon; Sei; Solana; Terra; Thorchain"
   },
   {
     "id": 13067,
