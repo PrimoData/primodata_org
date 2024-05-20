@@ -426,10 +426,10 @@
     "category": "Enterprise Research",
     "description": "Amberdata delivers comprehensive digital asset data and insights into blockchain networks, crypto markets, and decentralized finance, empowering financial institutions with critical data for research, trading, risk, analytics, reporting, and compliance.",
     "sponsor": "",
-    "products": "",
+    "products": "API, Websocket, Snowflake, BigQuery, Databricks, Dashboard, Derivatives",
     "slug": "amberdata",
     "docs": "https://docs.amberdata.io/reference#reference-getting-started",
-    "chains": ""
+    "chains": "Ethereum, Bitcoin, Bitcoin Cash, Litecoin, Polygon, Binance Smart Chain, Avalanche, Arbitrum, Optimism "
   },
   {
     "id": 12777,
