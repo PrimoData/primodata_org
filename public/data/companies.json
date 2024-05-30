@@ -1792,18 +1792,18 @@
     "chains": ""
   },
   {
-    "id": 13021,
+     "id": 13021,
     "name": "Dune",
     "website": "https://dune.com/home",
     "twitter": "https://twitter.com/DuneAnalytics",
     "logo": "https://pbs.twimg.com/profile_images/1641375897658748928/tPBBdDui_400x400.jpg",
     "category": "Onchain Data",
-    "description": "Dune is an analytics platform that enables users to explore, visualize, and share data from blockchain ecosystems in a user-friendly interface.",
+    "description": "Dune is Crypto's most trusted data platform. Build together with Web3's largest data community. Explore 10s of blockchains and 1000s of protocols in full colour with raw, decoded and curated datasets.",
     "sponsor": "",
-    "products": "",
+    "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; Real-time API; Webhooks",
     "slug": "dune",
     "docs": "https://dune.com/docs/",
-    "chains": ""
+    "chains": "arbitrum; aptos; avalanche_c; base; beacon; bnb; bitcoin; celo; degen; ethereum; fantom; gnosis; kusama; linea; mode; optimism; polkadot; polygon; scroll; solana; tron; zkevm; zksync; zora"
   },
   {
     "id": 13029,
