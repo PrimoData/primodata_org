@@ -22,10 +22,10 @@
     "category": "Onchain Data",
     "description": "Bitquery offers APIs for 40+ blockchain chains (Bitcoin, Ethereum) and protocols (Uniswap), with real-time/historical data via Websockets, SQL, Cloud services, and GraphQL APIs.",
     "sponsor": "1. Gold",
-    "products": "API; WebSocket",
+    "products": "API; WebSocket; Cloud",
     "slug": "bitquery",
     "docs": "https://docs.bitquery.io/",
-    "chains": "Algorand; Bitcoin; Binance Smart Chain; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Ethereum 2.0; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
+    "chains": "Algorand; Bitcoin; Binance Smart Chain; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Ethereum 2.0; Base; Optimism; Arbitrum; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
   },
   {
     "id": 12834,
