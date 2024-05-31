@@ -1803,7 +1803,7 @@
     "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; Real-time API; Webhooks",
     "slug": "dune",
     "docs": "https://dune.com/docs/",
-    "chains": "arbitrum; aptos; avalanche_c; base; beacon; bnb; bitcoin; celo; degen; ethereum; fantom; gnosis; kusama; linea; mode; optimism; polkadot; polygon; scroll; solana; tron; zkevm; zksync; zora"
+    "chains": "Arbitrum; Aptos; Avalanche; Base; Beacon; Binance Smart Chain; Bitcoin; Celo; Degen; Ethereum; Fantom; Gnosis; Kusama; Linea; Mode; Optimism; Polkadot; Polygon; Scroll; Solana; Tron; zkevm; zksync; Zora"
   },
   {
     "id": 13029,
