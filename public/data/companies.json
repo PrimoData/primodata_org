@@ -11,7 +11,7 @@
     "products": "API; Data Warehouse; Kafka; PubSub; Data Share - Snowflake; Data Share - BigQuery; Data Share - Databricks; Dashboards",
     "slug": "allium",
     "docs": "https://docs.allium.so/",
-    "chains": "Arbitrum One; Avalanche; Base; Blast; Bitcoin; Binance Smart Chain; Celo; Ethereum; Ethereum Beacon; Fraxtal; Immutable zkEVM; Kroma; Oasys; Optimism; Osmosis; Polygon; Polygon zkEVM; Scroll; Solana; Starknet; TRON; WeMix; Zora"
+    "chains": "Arbitrum One; Avalanche; Base; Blast; Bitcoin; BNB; Celo; Ethereum; Ethereum Beacon; Fraxtal; Immutable zkEVM; Kroma; Oasys; Optimism; Osmosis; Polygon; Polygon zkEVM; Scroll; Solana; Starknet; TRON; WeMix; Zora"
   },
   {
     "id": 12824,
@@ -25,7 +25,7 @@
     "products": "API; WebSocket; Data Warehouse; Investigation Tool",
     "slug": "bitquery",
     "docs": "https://docs.bitquery.io/",
-    "chains": "Algorand; Bitcoin; Binance Smart Chain; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Ethereum 2.0; Base; Optimism; Arbitrum; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
+    "chains": "Algorand; Bitcoin; BNB; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Ethereum 2.0; Base; Optimism; Arbitrum One; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
   },
   {
     "id": 12834,
@@ -39,7 +39,7 @@
     "products": "Nodes; RPC",
     "slug": "blockjoy",
     "docs": "",
-    "chains": "Arbitrum; Avalanche; Binance Smart Chain; Celo; Ethereum; Ethereum Reth; Ethereum Stateless; Fantom; Gnosis; Klaytn; Optimism; Polygon; Starknet; Solana"
+    "chains": "Arbitrum One; Avalanche; BNB; Celo; Ethereum; Ethereum Reth; Ethereum Stateless; Fantom; Gnosis; Klaytn; Optimism; Polygon; Starknet; Solana"
   },
   {
     "id": 12864,
@@ -53,7 +53,7 @@
     "products": "API; Data Warehouse; Webhook; Kafka; Indexer",
     "slug": "chainbase",
     "docs": "https://docs.chainbase.com/",
-    "chains": "Aptos; Arbitrum One; Avalanche; Base; Bitcoin; Binance Smart Chain; Ethereum; Fantom; Optimism; Polygon; Sui; zkSync Era"
+    "chains": "Aptos; Arbitrum One; Avalanche; Base; Bitcoin; BNB; Ethereum; Fantom; Optimism; Polygon; Sui; zkSync Era"
   },
   {
     "id": 12917,
@@ -81,7 +81,7 @@
     "products": "API; Data Warehouse; Dashboards",
     "slug": "dapplooker",
     "docs": "https://docs.dapplooker.com/",
-    "chains": "Binance Smart Chain; Celo; Ethereum; Krest; Polygon; Subgraphs; Zeta Testnet"
+    "chains": "BNB; Celo; Ethereum; Krest; Polygon; Subgraphs; Zeta Testnet"
   },
   {
     "id": 13032,
@@ -95,7 +95,7 @@
     "products": "Indexer; RPC",
     "slug": "envio",
     "docs": "https://docs.envio.dev/docs/overview",
-    "chains": "Arbitrum One; Aurora; Aurora Testnet; Avalanche; Base; Base Sepolia; Boba Network; Binance Smart Chain; C1 Milkomeda; Celo; Ethereum; Fantom; Flare; Gnosis; Gnosis Chiado; Goerli; Harmony; Holesky; Kroma; Linea; Lukso; Mantle; Manta; Metis; Moonbeam; Mumbai; Okbc Testnet; Optimism; Optimism Sepolia; Polygon; Polygon zkEVM; Public Goods Network; Scroll; Sepolia; Taiko Jolnr; Zksync Era; Zora"
+    "chains": "Arbitrum One; Aurora; Aurora Testnet; Avalanche; Base; Base Sepolia; Boba Network; BNB; C1 Milkomeda; Celo; Ethereum; Fantom; Flare; Gnosis; Gnosis Chiado; Goerli; Harmony; Holesky; Kroma; Linea; Lukso; Mantle; Manta; Metis; Moonbeam; Mumbai; Okbc Testnet; Optimism; Optimism Sepolia; Polygon; Polygon zkEVM; Public Goods Network; Scroll; Sepolia; Taiko Jolnr; zkSync Era; Zora"
   },
   {
     "id": 13090,
@@ -179,7 +179,7 @@
     "products": "API",
     "slug": "playgrounds",
     "docs": "https://docs.playgrounds.network/",
-    "chains": "Arbitrum Goerli; Arbitrum One; Arbitrum Sepolia; Arweave; Astar zkEvm Sepolia; Aurora; Aurora Testnet; Avalanche; Avalanche Fuji; Base; Base Goerli; Base Sepolia; Blast Testnet; BNB Bruno; Boba Network; Binance Smart Chain; Celo; Celo Alfajores; Clover; Cosmos; Ethereum; Ethereum Sepolia; Fantom; Fantom Testnet; Fuse; Gnosis; Goerli; Harmony; Holesky; Moonbase Alpha; Moonbeam; Moonriver; Mumbai; NEAR; NEAR Testnet; Optimism; Optimism Goerli; Optimism Sepolia; Osmosis; Osmosis Testnet; POA-Core; Polygon; Polygon zkEVM; Polygon zkEVM Testnet; Scroll; Scroll Testnet; Subgraphs; zkSync Era; zkSync Era Testnet; Zksync Sepolia"
+    "chains": "Arbitrum Goerli; Arbitrum One; Arbitrum Sepolia; Arweave; Astar zkEvm Sepolia; Aurora; Aurora Testnet; Avalanche; Avalanche Fuji; Base; Base Goerli; Base Sepolia; Blast Testnet; BNB Bruno; Boba Network; BNB; Celo; Celo Alfajores; Clover; Cosmos; Ethereum; Ethereum Sepolia; Fantom; Fantom Testnet; Fuse; Gnosis; Goerli; Harmony; Holesky; Moonbase Alpha; Moonbeam; Moonriver; Mumbai; NEAR; NEAR Testnet; Optimism; Optimism Goerli; Optimism Sepolia; Osmosis; Osmosis Testnet; POA-Core; Polygon; Polygon zkEVM; Polygon zkEVM Testnet; Scroll; Scroll Testnet; Subgraphs; zkSync Era; zkSync Era Testnet; zkSync Sepolia"
   },
   {
     "id": 12866,
@@ -193,7 +193,7 @@
     "products": "Dashboards",
     "slug": "chaindensity",
     "docs": "",
-    "chains": "Arbitrum One; Aurora; Aurora Testnet; Avalanche; Base; Base Sepolia; Boba Network; Binance Smart Chain; C1 Milkomeda; Celo; Ethereum; Fantom; Flare; Gnosis; Gnosis Chiado; Goerli; Harmony; Holesky; Kroma; Linea; Lukso; Mantle; Manta; Metis; Moonbeam; Mumbai; Okbc Testnet; Optimism; Optimism Sepolia; Polygon; Polygon zkEVM; Public Goods Network; Scroll; Sepolia; Taiko Jolnr; Zksync Era; Zora"
+    "chains": "Arbitrum One; Aurora; Aurora Testnet; Avalanche; Base; Base Sepolia; Boba Network; BNB; C1 Milkomeda; Celo; Ethereum; Fantom; Flare; Gnosis; Gnosis Chiado; Goerli; Harmony; Holesky; Kroma; Linea; Lukso; Mantle; Manta; Metis; Moonbeam; Mumbai; Okbc Testnet; Optimism; Optimism Sepolia; Polygon; Polygon zkEVM; Public Goods Network; Scroll; Sepolia; Taiko Jolnr; zkSync Era; Zora"
   },
   {
     "id": 13478,
@@ -375,7 +375,7 @@
     "products": "API; WebSocket; Data Share - Snowflake; Data Share - BigQuery; Data Share - Databricks; Dashboards; Derivatives; Excel Exports",
     "slug": "amberdata",
     "docs": "https://docs.amberdata.io/reference#reference-getting-started",
-    "chains": "Ethereum; Bitcoin; Bitcoin Cash; Litecoin; Polygon; Binance Smart Chain; Avalanche; Arbitrum; Optimism"
+    "chains": "Ethereum; Bitcoin; Bitcoin Cash; Litecoin; Polygon; BNB; Avalanche; Arbitrum One; Optimism"
   },
   {
     "id": 12777,
@@ -1803,7 +1803,7 @@
     "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; Real-time API; Webhooks",
     "slug": "dune",
     "docs": "https://dune.com/docs/",
-    "chains": "Arbitrum; Aptos; Avalanche; Base; Beacon; Binance Smart Chain; Bitcoin; Celo; Degen; Ethereum; Fantom; Gnosis; Kusama; Linea; Mode; Optimism; Polkadot; Polygon; Scroll; Solana; Tron; zkevm; zksync; Zora"
+    "chains": "Arbitrum One; Aptos; Avalanche; Base; Beacon; BNB; Bitcoin; Celo; Degen; Ethereum; Fantom; Gnosis; Kusama; Linea; Mode; Optimism; Polkadot; Polygon; Scroll; Solana; Tron; zkevm; zkSync Era; Zora"
   },
   {
     "id": 13029,
@@ -2013,7 +2013,7 @@
     "products": "API; SDK; Growth Services; Data Warehouse; Data Share - Snowflake; Dashboards; Excel Exports; Earn",
     "slug": "flipside",
     "docs": "https://docs.flipsidecrypto.com/",
-    "chains": "Aptos; Aurora; Avalanche; Axelar; Base; Bitcoin; Blast; Binance Smart Chain; Cosmos; Crosschain; Ethereum; Flow; Gnosis; Lava; Klaytn; NEAR; Optimism; Osmosis; Polygon; Sei; Solana; Terra; Thorchain"
+    "chains": "Aptos; Aurora; Avalanche; Axelar; Base; Bitcoin; Blast; BNB; Cosmos; Crosschain; Ethereum; Flow; Gnosis; Lava; Klaytn; NEAR; Optimism; Osmosis; Polygon; Sei; Solana; Terra; Thorchain"
   },
   {
     "id": 13067,
@@ -3469,7 +3469,7 @@
     "products": "API; Dashboards; Data Share - Databricks",
     "slug": "rwa-xyz",
     "docs": "https://docs.rwa.xyz/",
-    "chains": "Ethereum; Solana; Binance Smart Chain; TRON; Polygon; Arbitrum; Stellar; Provenance; XDC; Optimism;"
+    "chains": "Ethereum; Solana; BNB; TRON; Polygon; Arbitrum One; Stellar; Provenance; XDC; Optimism;"
   },
   {
     "id": 13414,
