@@ -25,7 +25,7 @@
     "products": "API; WebSocket; Data Warehouse; Investigation Tool",
     "slug": "bitquery",
     "docs": "https://docs.bitquery.io/",
-    "chains": "Algorand; Bitcoin; BNB; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Ethereum 2.0; Base; Optimism; Arbitrum One; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
+    "chains": "Algorand; Bitcoin; BNB; Cardano; Conflux; Cosmos; Diem; Elrond; EOS; Ethereum; Base; Optimism; Arbitrum One; Everscale; Filecoin; Flow; Harmony; Hedera; Ripple; Solana; Stellar; Tezos; TRON"
   },
   {
     "id": 12834,
@@ -39,7 +39,7 @@
     "products": "Nodes; RPC",
     "slug": "blockjoy",
     "docs": "",
-    "chains": "Arbitrum One; Avalanche; BNB; Celo; Ethereum; Ethereum Reth; Ethereum Stateless; Fantom; Gnosis; Klaytn; Optimism; Polygon; Starknet; Solana"
+    "chains": "Arbitrum One; Avalanche; BNB; Celo; Ethereum; Fantom; Gnosis; Klaytn; Optimism; Polygon; Starknet; Solana"
   },
   {
     "id": 12864,
