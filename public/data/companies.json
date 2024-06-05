@@ -454,12 +454,12 @@
     "twitter": "https://twitter.com/Artemis__xyz",
     "logo": "https://pbs.twimg.com/profile_images/1668776206966353921/1HYfbh79_400x400.jpg",
     "category": "Enterprise Research",
-    "description": "Improve your investing. Use market leading crypto analytics tools. Use Artemis Sheet for tracking spreadsheets with live and trustworthy data.",
+    "description": "Artemis is the institutional data platform For‍ digital assets. The most comprehensive source of onchain fundamental metrics.",
     "sponsor": "",
-    "products": "",
+    "products": "Dashboards; Sheets; Data Warehouse; Data Share - Snowflake; API; Excel Exports",
     "slug": "artemis",
     "docs": "https://docs.artemis.xyz/docs/",
-    "chains": ""
+    "chains": "Acala; Aptos; Arbitrum; Avalanche; Axelar; Base; Blast; BNB Chain; Bitcoin; Cardano; Celo; Cosmos; Ethereum; Fantom; Flow; Fuse; Gnosis Chain; Injective; Linea; Mantle; MultiversX; NEAR; Optimism; Osmosis; Polkadot; Polygon; Polygon zkEVM; Scroll; Sei Network; Solana; Stacks; StarkNet; Sui; TON; Tron; zkSync Era; Zora"
   },
   {
     "id": 12810,
