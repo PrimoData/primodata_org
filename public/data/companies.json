@@ -459,7 +459,7 @@
     "products": "Dashboards; Sheets; Data Warehouse; Data Share - Snowflake; API; Excel Exports",
     "slug": "artemis",
     "docs": "https://docs.artemis.xyz/docs/",
-    "chains": "acala; aptos; arbitrum; avalanche; axelar; base; blast; bsc; bitcoin; cardano; celo; cosmoshub; ethereum; fantom; flow; fuse; gnosis; injective; linea; mantle; multiversx; near; optimism; osmosis; polkadot; polygon; polygon_zk; scroll; sei; solana; stacks; starknet; sui; ton; tron; zksync; zora"
+    "chains": "Acala; Aptos; Arbitrum; Avalanche; Axelar; Base; Blast; BNB Chain; Bitcoin; Cardano; Celo; Cosmos; Ethereum; Fantom; Flow; Fuse; Gnosis Chain; Injective; Linea; Mantle; MultiversX; NEAR; Optimism; Osmosis; Polkadot; Polygon; Polygon zkEVM; Scroll; Sei Network; Solana; Stacks; StarkNet; Sui; TON; Tron; zkSync Era; Zora"
   },
   {
     "id": 12810,
