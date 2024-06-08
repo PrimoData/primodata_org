@@ -3109,17 +3109,17 @@
   },
   {
     "id": 13325,
-    "name": "Ormi Labs",
-    "website": "https://www.ormilabs.xyz/",
+    "name": "Ormi",
+    "website": "https://www.ormi.xyz/",
     "twitter": "https://twitter.com/ormilabs",
     "logo": "https://pbs.twimg.com/profile_images/1499970591410905092/BYX110pc_400x400.jpg",
-    "category": "Onchain Data",
-    "description": "Web3 data infrastructure to supercharge your on-chain AI and APIs.",
+    "category": "Indexing",
+    "description": "Ormi is the unified data layer for Web3 and beyond",
     "sponsor": "",
-    "products": "",
+    "products": "0xgraph (Subgraph hosting), 0xdb (SQL data engine), 0xintel (knowledge graphs)",
     "slug": "ormi-labs",
-    "docs": "",
-    "chains": ""
+    "docs": "https://docs.ormi.xyz/ormi-labs",
+    "chains": "Ethereum, Arbitrum, Optimism, Berachain, Polygon, Blast, Base, Telos, Fantom, MultiversX, Artela, Form, Sei, Tron, BSC, Cronos, Linea, Manta, Gnosis, Metis, Mantle"
   },
   {
     "id": 13332,
