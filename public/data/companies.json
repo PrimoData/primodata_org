@@ -459,7 +459,7 @@
     "products": "Dashboards; Sheets; Data Warehouse; Data Share - Snowflake; API; Excel Exports",
     "slug": "artemis",
     "docs": "https://docs.artemis.xyz/docs/",
-    "chains": "Acala; Aptos; Arbitrum; Avalanche; Axelar; Base; Blast; BNB Chain; Bitcoin; Cardano; Celo; Cosmos; Ethereum; Fantom; Flow; Fuse; Gnosis Chain; Injective; Linea; Mantle; MultiversX; NEAR; Optimism; Osmosis; Polkadot; Polygon; Polygon zkEVM; Scroll; Sei Network; Solana; Stacks; StarkNet; Sui; TON; Tron; zkSync Era; Zora"
+    "chains": "Acala; Aptos; Arbitrum One; Avalanche; Axelar; Base; Blast; BNB; Bitcoin; Cardano; Celo; Cosmos; Ethereum; Fantom; Flow; Fuse; Gnosis Chain; Injective; Linea; Mantle; MultiversX; NEAR; Optimism; Osmosis; Polkadot; Polygon; Polygon zkEVM; Scroll; Sei; Solana; Stacks; StarkNet; Sui; TON; Tron; zkSync Era; Zora"
   },
   {
     "id": 12810,
@@ -3113,13 +3113,13 @@
     "website": "https://www.ormi.xyz/",
     "twitter": "https://twitter.com/ormilabs",
     "logo": "https://pbs.twimg.com/profile_images/1499970591410905092/BYX110pc_400x400.jpg",
-    "category": "Indexing",
+    "category": "Onchain Data",
     "description": "Ormi is the unified data layer for Web3 and beyond",
     "sponsor": "",
     "products": "0xgraph (Subgraph hosting), 0xdb (SQL data engine), 0xintel (knowledge graphs)",
     "slug": "ormi-labs",
     "docs": "https://docs.ormi.xyz/ormi-labs",
-    "chains": "Ethereum, Arbitrum, Optimism, Berachain, Polygon, Blast, Base, Telos, Fantom, MultiversX, Artela, Form, Sei, Tron, BSC, Cronos, Linea, Manta, Gnosis, Metis, Mantle"
+    "chains": "Ethereum; Arbitrum One; Optimism; Berachain; Polygon; Blast; Base; Telos; Fantom; MultiversX; Artela; Form; Sei; Tron; BNB; Cronos; Linea; Manta; Gnosis; Metis; Mantle;"
   },
   {
     "id": 13332,
