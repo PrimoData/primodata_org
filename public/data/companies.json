@@ -1800,7 +1800,7 @@
     "category": "Onchain Data",
     "description": "Dune is Crypto's most trusted data platform. Build together with Web3's largest data community. Explore 10s of blockchains and 1000s of protocols in full colour with raw, decoded and curated datasets.",
     "sponsor": "",
-    "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; Real-time API; Webhooks",
+    "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; API; Webhook",
     "slug": "dune",
     "docs": "https://dune.com/docs/",
     "chains": "Arbitrum One; Aptos; Avalanche; Base; Beacon; BNB; Bitcoin; Celo; Degen; Ethereum; Fantom; Gnosis; Kusama; Linea; Mantle; Mode; Optimism; Polkadot; Polygon; Scroll; Solana; Tron; zkevm; zkSync Era; Zora"
@@ -3116,7 +3116,7 @@
     "category": "Onchain Data",
     "description": "Ormi is the unified data layer for Web3 and beyond",
     "sponsor": "",
-    "products": "0xgraph (Subgraph hosting), 0xdb (SQL data engine), 0xintel (knowledge graphs)",
+    "products": "Subgraph; Data Warehouse; Knowledge Graphs;",
     "slug": "ormi-labs",
     "docs": "https://docs.ormi.xyz/ormi-labs",
     "chains": "Ethereum; Arbitrum One; Optimism; Berachain; Polygon; Blast; Base; Telos; Fantom; MultiversX; Artela; Form; Sei; Tron; BNB; Cronos; Linea; Manta; Gnosis; Metis; Mantle;"
