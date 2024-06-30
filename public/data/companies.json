@@ -4646,5 +4646,19 @@
     "slug": "tx2uml",
     "docs": "https://docs.github.com",
     "chains": ""
+  },
+  {
+    "id": 13561,
+    "name": "SonarWatch",
+    "website": "https://sonar.watch",
+    "twitter": "https://twitter.com/Sonarwatch",
+    "logo": "https://sonar.watch/assets/sw_logo_black-2ca475bc.svg",
+    "category": "Onchain Data",
+    "description": "SonarWatch is a multichain dashboard that supports you in monitoring your DeFi portfolio and staying updated on the web3 ecosystem in real time. We provide the best DeFi API with the biggest coverage of the market.",
+    "sponsor": "",
+    "products": "API; Dashboard; Portfolio Repository; Airdrop Tracker; Points Tracker",
+    "slug": "sonarwatch",
+    "docs": "https://docs.sonar.watch/api",
+    "chains": "Solana; Sui; Aptos; Ethereum; Bitcoin; Avalanche; Polygon; BNB; Sei"
   }
 ]
