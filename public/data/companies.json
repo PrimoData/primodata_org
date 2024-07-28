@@ -2944,14 +2944,14 @@
     "name": "Noves",
     "website": "https://noves.fi/",
     "twitter": "https://twitter.com/noves_fi",
-    "logo": "https://pbs.twimg.com/profile_images/1732616944124383232/rt7NJPqB_400x400.jpg",
-    "category": "Onchain Data",
-    "description": "Noves transforms how you work with smart contract blockchains. Save time, eliminate headaches, and deliver advanced capabilities like never before",
+    "logo": "https://raw.githubusercontent.com/Noves-Inc/noves-brand-assets/master/logo/social/Noves-Social-Profile-Logo-Black-BG_400x400-100.jpg",
+    "category": "Speciality Data",
+    "description": "Noves is a data provider specialized in value-added data, including: translation of complex transactions into human-readable form, human-readable transaction simulation, on-chain DEX pricing, and analytics-focused indexing for a very extensive set of chains.",
     "sponsor": "",
-    "products": "",
+    "products": "API; Data Warehouse; Indexer",
     "slug": "noves",
     "docs": "https://docs.noves.fi/reference/api-overview",
-    "chains": ""
+    "chains": "Ethereum; Solana; Arbitrum One; Polygon; Base; Aptos; Optimism; Bitcoin; Sui; Berachain; Cardano; Telos; Fantom; BNB; Cronos; Linea; Manta; Gnosis; Metis; Mantle; Avalanche; Moonriver; Moonbeam; Core; Lukso; zkSync Era; Scroll; Mode; Pulsechain; Plume"
   },
   {
     "id": 13279,
