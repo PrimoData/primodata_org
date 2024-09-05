@@ -4660,5 +4660,19 @@
     "slug": "sonarwatch",
     "docs": "https://docs.sonar.watch/api",
     "chains": "Solana; Sui; Aptos; Ethereum; Bitcoin; Avalanche; Polygon; BNB; Sei"
+  },
+  {
+    "id": 13562,
+    "name": "Formo",
+    "website": "https://formo.so/",
+    "twitter": "https://twitter.com/getformo",
+    "logo": "https://pbs.twimg.com/profile_images/1828081862134341632/-oXrNYLr_400x400.jpg",
+    "category": "Product Analytics",
+    "description": "Formo helps teams understand and use onchain data to engage active users in web3.",
+    "sponsor": "",
+    "products": "Dashboards; Data Warehouse; Investigation Tool; SDK; Webhook",
+    "slug": "formo",
+    "docs": "https://help.formo.so",
+    "chains": "Ethereum, Arbitrum, Optimism, Base, Polygon"
   }
 ]
