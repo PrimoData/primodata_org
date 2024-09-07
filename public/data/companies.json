@@ -4673,6 +4673,6 @@
     "products": "Dashboards; Data Warehouse; Investigation Tool; SDK; Webhook",
     "slug": "formo",
     "docs": "https://help.formo.so",
-    "chains": "Ethereum, Arbitrum, Optimism, Base, Polygon"
+    "chains": "Ethereum; Arbitrum; Optimism; Base; Polygon"
   }
 ]
