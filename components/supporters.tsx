@@ -105,7 +105,7 @@ export function Supporters() {
                       className="mt-5 mb-3 md:mt-0"
                     >
                       <img
-                        src="https://coinpaprika.com/static/files/df51e301.png"
+                        src="https://logos-download.com/wp-content/uploads/2023/02/Coinpaprika_Logo.png"
                         alt="Coinpaprika"
                         style={{
                           maxHeight: '60px',
