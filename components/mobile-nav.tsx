@@ -50,9 +50,9 @@ export function MobileNav({ items }: MainNavProps) {
             >
               Landscape
             </MobileLink>
-            <MobileLink href="/eth-performance" onOpenChange={setOpen}>
+            {/* <MobileLink href="/eth-performance" onOpenChange={setOpen}>
               ETH Speed
-            </MobileLink>
+            </MobileLink> */}
             <MobileLink href="/guides" onOpenChange={setOpen}>
               Guides
             </MobileLink>

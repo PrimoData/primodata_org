@@ -13,7 +13,7 @@ export function Features() {
       <h2 className="text-2xl md:text-3xl font-bold tracking-tighter sm:text-4xl xl:text-5xl/none text-black text-center mb-8">
         Resources
       </h2>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
         <Card className="shadow-lg p-6 rounded-lg">
           <div className="flex items-center justify-center text-5xl font-bold mb-4">
             300+
@@ -30,7 +30,7 @@ export function Features() {
             View
           </Link>{' '}
         </Card>
-        <Card className="shadow-lg p-6 rounded-lg">
+        {/* <Card className="shadow-lg p-6 rounded-lg">
           <div className="flex items-center justify-center text-5xl font-bold mb-4">
             {'< 1 sec'}
           </div>
@@ -45,7 +45,7 @@ export function Features() {
           >
             Speed Test
           </Link>{' '}
-        </Card>
+        </Card> */}
         <Card className="shadow-lg p-6 rounded-lg">
           <div className="flex items-center justify-center text-5xl font-bold mb-4">
             17

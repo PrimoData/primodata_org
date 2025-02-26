@@ -285,7 +285,7 @@ export function Supporters() {
                 </div>
               </div>
             </div>
-            <div className="w-full max-w-full md:px-16 mx-auto my-5">
+            {/* <div className="w-full max-w-full md:px-16 mx-auto my-5">
               <div className="p-4 text-center">
                 <h2 className="font-bold text-3xl text-black">
                   Become a Supporter
@@ -303,7 +303,7 @@ export function Supporters() {
                   Support Us
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

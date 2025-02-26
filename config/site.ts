@@ -9,11 +9,11 @@ export const siteConfig = {
       href: '/blockchain-data',
       description: 'Blockchain data for companies',
     },
-    {
-      title: 'ETH Speed',
-      href: '/eth-performance',
-      description: 'Ethereum performance',
-    },
+    // {
+    //   title: 'ETH Speed',
+    //   href: '/eth-performance',
+    //   description: 'Ethereum performance',
+    // },
     // {
     //   title: 'Guides',
     //   href: '/guides',
