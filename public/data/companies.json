@@ -4579,7 +4579,7 @@
   },
   {
     "id": 13563,
-    "name": "Chakra Labs",
+    "name": "Chakra AI",
     "website": "https://www.chakra.dev/",
     "twitter": "https://twitter.com/chakra_ai",
     "logo": "https://pbs.twimg.com/profile_images/1835675931391807488/M34tcF6a_400x400.jpg",
@@ -4587,7 +4587,21 @@
     "description": "Organizing the World's Structured Data ➡ Contribute to the Open Data Marketplace.",
     "sponsor": "",
     "products": "",
-    "slug": "chakra-labs",
+    "slug": "chakra-ai",
+    "docs": "",
+    "chains": ""
+  },
+  {
+    "id": 13564,
+    "name": "Turnqey Labs",
+    "website": "https://www.turnqey.xyz/",
+    "twitter": "https://twitter.com/TurnqeyLabs",
+    "logo": "https://pbs.twimg.com/profile_images/1588564568904695814/43NfqFcI_400x400.jpg",
+    "category": "Market Data",
+    "description": "An API suite providing comprehensive crypto asset management data analysis and insight.",
+    "sponsor": "",
+    "products": "",
+    "slug": "turnkey-labs",
     "docs": "",
     "chains": ""
   }
