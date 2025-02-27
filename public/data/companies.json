@@ -6,12 +6,12 @@
     "twitter": "https://twitter.com/alliumlabs",
     "logo": "https://pbs.twimg.com/profile_images/1778926940407132160/UEwR3lHt_400x400.jpg",
     "category": "Onchain Data",
-    "description": "Accurate, Fast, Simple blockchain data delivered directly to your desired destination. We support 23 blockchains across 100+ real-time and enriched schemas, with capabilities to swiftly index additional blockchains.",
+    "description": "Accurate, Fast, Simple blockchain data delivered directly to your desired destination. We support 75+ blockchains across 1,000+ real-time and historical enriched schemas, with capabilities to swiftly index additional blockchains.",
     "sponsor": "1. Gold",
-    "products": "API; Data Warehouse; Kafka; PubSub; Data Share - Snowflake; Data Share - BigQuery; Data Share - Databricks; Dashboards",
+    "products": "API; Data Warehouse; Kafka; PubSub; SNS; Data Share - Snowflake; Data Share - BigQuery; Data Share - Databricks; S3, GCS, Dashboards; Query UI, Data Uploads",
     "slug": "allium",
     "docs": "https://docs.allium.so/",
-    "chains": "Arbitrum One; Avalanche; Base; Blast; Bitcoin; BNB; Celo; Ethereum; Ethereum Beacon; Fraxtal; Immutable zkEVM; Kroma; Oasys; Optimism; Osmosis; Polygon; Polygon zkEVM; Scroll; Solana; Starknet; TRON; WeMix; Zora"
+    "chains": "Abstract; Abstract Testnet; Aleph Zero; Alienx; Apechain; Aptos; Arbitrum One; Arbitrum Nova; Arbitrum Sepolia; Astar; Avalanche; B3; Base; Base Sepolia; Berachain; Bitcoin; Blast; BNB; Celo; Cosmos; Degen; Ethereum; Ethereum Beacon; Ethereum Sepolia; Fantom; Fraxtal; Gnosis; Gravity; Hedera; Holesky; Hyperliquid; Immutable zkEVM; Ink; Kinto; Kroma; Linea; Manta Pacific; Mantle; Metis; Mode; Monad Testnet; Near; Oasys; Optimism; Osmosis; Polygon; Polygon zkEVM; Proof of Play Apex; Proof of Play Boss; Provenance; Real; Reya; Ronin; Rootstock; Sanko; Scroll; Scroll Sepolia; Sei; Solana; Solana Devnet; Soneium; Sonic; Stacks; Starknet; Sui; Superposition; TON; TRON; Unichain; Unichain Sepolia; WeMix; Worldchain; XAI; zkSync Era; Zora;"
   },
   {
     "id": 12824,
