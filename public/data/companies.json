@@ -109,7 +109,7 @@
     "products": "Indexer; Kafka",
     "slug": "goldsky",
     "docs": "https://docs.goldsky.com",
-    "chains": "Arbitrum One; Arweave; Base; Base Goerli; Celo; Ethereum; Gnosis; Linea; Mode Testnet; Optimism; Polygon; Scroll Testnet; Subgraphs; Zora; Zora Goerli"
+    "chains": "Abstract; Align Testnet; Apechain; Apechain Curtis; Proof of Play Apex; Arbitrum Nova; Arbitrum One; Arbitrum Sepolia; Arena-Z; Arena-Z Testnet; Artela; Arweave; Automata; Automata Testnet; Avalanche; B3; B3 Sepolia; Base; Base Sepolia; Berachain Bartio; Berachain Mainnet; Blast; Build on Bitcoin; Build on Bitcoin Testnet; Binance Smart Chain; Camp Testnet; Celo; Celo Dango Testnet; Cronos zkEVM; Cronos zkEVM Sepolia; Cyber; Cyber Testnet; Ethena Testnet; Ethereum; Ethereum Holesky; Ethereum Sepolia; Ethernity; Ethernity Testnet; Fantom; Forma; Frax; Gnosis; Ham; Helix Testnet; HyperEVM; Immutable Testnet; Immutable zkEVM; Ink; Ink Sepolia; Iota; Kroma; Linea; Lisk; Lisk Sepolia; Lith Testnet; Lyra; Lyra Testnet; Metal; Metal Testnet; Mezo Testnet; Mint; Mint Sepolia; Mode; Mode Testnet; Monad Testnet; Morph; Oasys Homeverse; Optimism; Optimism Sepolia; Orderly; Orderly Sepolia; Palm; Palm Testnet; Polygon; Polynomial; Proof of Play Barret; Proof of Play Boss; Proof of Play Cloud; Public Good Network; Race; Rari; Redstone; Reya; Rise Sepolia; Ruby Testnet; Scroll; Scroll Sepolia; Sei; Shape; Shape Sepolia; Shrapnel; SNAXchain; Soneium; Soneium Minato; Sophon; Sophon Testnet; Story; Story Aeneid Testnet; Story Odyssey Testnet; Superseed; Superseed Sepolia; Swan; Swellchain; Swellchain Testnet; The Binary Holdings; Treasure; Treasure Topaz Testnet; Unichain; Unichain Sepolia; World Chain; Xai; Xai Testnet; XPLA; XR Sepolia; Xterio; Zero; Zero Sepolia; Zetachain; zkSync Era; Zora; Zora Sepolia; Beacon; Solana; Starknet; Stellar; Sui;"
   },
   {
     "id": 13121,
@@ -137,7 +137,7 @@
     "products": "Indexer",
     "slug": "indexing-co",
     "docs": "",
-    "chains": "Arbitrum One; Arweave; Base; Bitcoin; Ethereum; Gnosis; Optimism; Polygon; Scroll; Solana; Tezos; Zora; Dogecoin"
+    "chains": "Abstract; Acala; Apechain; Aptos; Arbitrum; Arbitrum Nova; Aurora; Avalanche; Avalanche Fuji; Base; Base Sepolia; Berachain; Bitcoin; Bitcoin Mempool; Blast; Bsc; Bsc Testnet; Canto; Cardano; Celestia; Celo; Celo Testnet; Chiliz; Chiliz Spicy; Cosmos; Cyber; Degen; Dogecoin; Dydx; Eth Holesky; Eth Sepolia; Ethereum; Ethereum Beacon; Ethereum Classic; Ethereum Pow; Fantom; Fantom Testnet; Farcaster; Flow; Fraxtal; Fuel; Fuse; Gnosis; Ham; Hemi Testnet; Hychain; Hyper Evm; Immutable; Injective; Injective Testnet; Ink; Karura; Karura Testnet; Linea; Linea Sepolia; Lyra; Mantle; Metis; Mode; Mode Sepolia; Moonbeam; Moonriver; Movement Bardock; Neon; Oasis Emerald; Oasis Sapphire; Oasys; Op Sepolia; Optimism; Orderly; Orderly Sepolia; Plume; Plume Testnet; Polygon; Polygon Amoy; Polygon Zkevm; Provenance; Ripple; Ronin; Sanko; Scroll; Scroll Sepolia; Sei; Sei Evm; Shape; Solana; Solana Devnet; Soneium; Stack; Starknet; Stellar; Syndicate Frame Chain; Taiko; Terra; Terra Classic; Tezos; Ton; Treasure; Tron; Unichain; Unichain Sepolia; Xai; Xpla; Xpla Testnet; Zer0; Zetachain; Zk Link; Zksync; Zora; Zora Sepolia"
   },
   {
     "id": 13455,
@@ -1789,7 +1789,7 @@
     "products": "Alerts; API; Data Warehouse; Data uploads; Data modelling; Dashboards; Data Share - Snowflake; API; Webhook",
     "slug": "dune",
     "docs": "https://dune.com/docs/",
-    "chains": "Arbitrum One; Aptos; Avalanche; Base; Beacon; BNB; Bitcoin; Celo; Degen; Ethereum; Fantom; Gnosis; Kusama; Linea; Mantle; Mode; Optimism; Polkadot; Polygon; Scroll; Solana; Tron; zkevm; zkSync Era; Zora"
+    "chains": "Abstract; Acala; Ajuna; Ancient8; Aptos; Arbitrum; AssetHub; AssetHub Kusama; Astar; Avalanche; Avalanche Fuji; B3; BNB; BOB; Base; Beacon; Berachain; Bifrost; Bitcoin; Bitgreen; Blast; Boba; BridgeHub; BridgeHub Kusama; Celo; Centrifuge; Collectives; Coretime; Coretime Kusama; Corn; Crust; Darwinia; Degen; Eclipse; Ethereum; Fantom; Flare; Frequency; Gnosis; Ham; Hashed; Hydration; Ink; Integritee; Interlay; InvArch; Kaia; Kilt; Kusama; Linea; Lisk; Litentry; Logion; Manta; Mantle; Metis; Mint; Mode; Moonbeam; Mythos; Near; Nodle; Nova; Omni; Optimism; Parallel; Pendulum; People; People Kusama; Phala; Polimec; Polkadex; Polkadot; Polygon; Polygon zkEVM; Proof Of Play; Proof Of Play Boss; Redstone; Ronin; SEI; Scroll; Sepolia; Shape; Solana; Sonic; Sophon; Starknet; Stellar; Superposition; Superseed; Swellchain; TON; Tron; Unichain; Unique; Viction; Wemix; Worldcoin; Xai"
   },
   {
     "id": 13029,
@@ -1999,7 +1999,7 @@
     "products": "API; SDK; Growth Services; Data Warehouse; Data Share - Snowflake; Dashboards; Excel Exports; Earn",
     "slug": "flipside",
     "docs": "https://docs.flipsidecrypto.com/",
-    "chains": "Aptos; Aurora; Avalanche; Axelar; Base; Bitcoin; Blast; BNB; Cosmos; Crosschain; Ethereum; Flow; Gnosis; Lava; Klaytn; NEAR; Optimism; Osmosis; Polygon; Sei; Solana; Terra; Thorchain"
+    "chains": "Aleo; Aptos; Arbitrum; Aurora; Avalanche; Axelar; Base; Bitcoin; Binance Smart Chain; Blast; Core; Cosmos; Crosschain Data; Eclipse; Ethereum; Flow; Gnosis; Ink; Kaia; Mantle; Near; Optimism; Osmosis; Polygon; Ronin; Sei; Solana; Stellar; Swell; Terra; Thorchain"
   },
   {
     "id": 13067,
@@ -4602,6 +4602,20 @@
     "sponsor": "",
     "products": "",
     "slug": "turnkey-labs",
+    "docs": "",
+    "chains": ""
+  },
+  {
+    "id": 13565,
+    "name": "Polymarket Analytics",
+    "website": "https://polymarketanalytics.com/",
+    "twitter": "https://twitter.com/poly_data",
+    "logo": "https://pbs.twimg.com/profile_images/1882787898887421952/5zO-9lbx_400x400.png",
+    "category": "Speciality Data",
+    "description": "Data & analytics on all Polymarket traders & markets.",
+    "sponsor": "",
+    "products": "",
+    "slug": "polymarket-analytics",
     "docs": "",
     "chains": ""
   }
