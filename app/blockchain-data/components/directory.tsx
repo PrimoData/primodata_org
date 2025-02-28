@@ -77,6 +77,10 @@ export function Directory() {
     ),
   ).sort();
 
+  const [expandedChains, setExpandedChains] = useState<{
+    [key: number]: boolean;
+  }>({});
+
   const uniqueChains = Array.from(
     new Set(
       items.flatMap((item) =>
@@ -414,14 +418,45 @@ export function Directory() {
                             </TableCell>
                             <TableCell className="border px-4 py-2 md:min-w-[200px]">
                               {item.chains &&
-                                item.chains.split(';').map((chain, index) => (
-                                  <span
-                                    key={index}
-                                    className="text-xs rounded-full py-1 px-2 my-1 ml-2 inline-flex items-center bg-slate-300 text-black"
-                                  >
-                                    {chain}
-                                  </span>
-                                ))}
+                                (() => {
+                                  const chains = item.chains.split(';');
+                                  const showAll =
+                                    expandedChains[index] || chains.length <= 5;
+                                  const displayChains = showAll
+                                    ? chains
+                                    : chains.slice(0, 5);
+
+                                  return (
+                                    <>
+                                      {displayChains.map(
+                                        (chain, chainIndex) => (
+                                          <span
+                                            key={chainIndex}
+                                            className="text-xs rounded-full py-1 px-2 my-1 ml-2 inline-flex items-center bg-slate-300 text-black"
+                                          >
+                                            {chain}
+                                          </span>
+                                        ),
+                                      )}
+
+                                      {chains.length > 5 && (
+                                        <button
+                                          onClick={() =>
+                                            setExpandedChains((prev) => ({
+                                              ...prev,
+                                              [index]: !prev[index],
+                                            }))
+                                          }
+                                          className="text-xs rounded-full py-1 px-2 my-1 ml-2 inline-flex items-center bg-blue-500 text-white hover:bg-blue-600 transition-colors"
+                                        >
+                                          {showAll
+                                            ? 'Show Less'
+                                            : `+${chains.length - 5} More`}
+                                        </button>
+                                      )}
+                                    </>
+                                  );
+                                })()}
                             </TableCell>
                             <TableCell className="border px-4 py-2 md:min-w-[200px]">
                               {item.products &&
