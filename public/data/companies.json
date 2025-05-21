@@ -3068,16 +3068,16 @@
   {
     "id": 13325,
     "name": "Ormi",
-    "website": "https://www.ormi.xyz/",
+    "website": "https://www.ormilabs.com/",
     "twitter": "https://twitter.com/ormilabs",
     "logo": "https://pbs.twimg.com/profile_images/1869498126064562176/80M0IOAY_400x400.png",
     "category": "Onchain Data",
-    "description": "Ormi is the unified data layer for Web3 and beyond",
+      "description": "Ormi Labs pioneers Web3 data infrastructure, delivering lightning-fast access to live, historical, and AI-enhanced blockchain data. Its flagship products  – 0xGraph, 0xAPI, and 0xDB – empower developers to build scalable, high-performance dApps with ease. Founded in 2022, Ormi supports growing blockchain ecosystems, driving decentralization’s future with reliable, innovative data solutions.",
     "sponsor": "",
-    "products": "Subgraph; Data Warehouse; Knowledge Graphs;",
-    "slug": "ormi-labs",
-    "docs": "https://docs.ormi.xyz/ormi-labs",
-    "chains": "Ethereum; Arbitrum One; Optimism; Berachain; Polygon; Blast; Base; Telos; Fantom; MultiversX; Artela; Form; Sei; Tron; BNB; Cronos; Linea; Manta; Gnosis; Metis; Mantle;"
+      "products": "Subgraph; API; Data Warehouse",
+    "slug": "ormi",
+      "docs": "https://docs.ormilabs.com/overview/introduction",
+      "chains": "Apechain; Apechain Curtis; Arbitrum One; Arbitrum Sepolia; Base; Berachain; Berachain Testnet; BNB Chain; Blast; Cronos; Cronos Testnet; Ethereum; Ethereum Sepolia; Fantom; Form; Form Testnet; Gnosis; Goat; Goat Testnet; Haven1; Linea; Manta; Mantle; Metis; Mode; Mode Sepolia; Optimism; Optimism Sepolia; Polygon; Polygon Amoy; Sei; Somnia; Somnia-testnet; Sonic; Sonic Blaze Testnet; Taiko; Tron;"
   },
   {
     "id": 13332,
