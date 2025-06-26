@@ -4568,14 +4568,14 @@
     "name": "Formo",
     "website": "https://formo.so/",
     "twitter": "https://twitter.com/getformo",
-    "logo": "https://pbs.twimg.com/profile_images/1828081862134341632/-oXrNYLr_400x400.jpg",
+    "logo": "https://pbs.twimg.com/profile_images/1937112430124965888/Tjuo2EBt_400x400.png",
     "category": "Product Analytics",
-    "description": "Formo helps teams understand and use onchain data to engage active users in web3.",
+    "description": "Formo is the data platform for onchain apps. Get unified analytics and onchain attribution that helps you understand who your users are, where they come from, and what they do to supercharge growth.",
     "sponsor": "",
-    "products": "Dashboards; Data Warehouse; Investigation Tool; SDK; Webhook",
+    "products": "Dashboards; Data Warehouse; API; SDK; Query UI, Data Uploads; Alerts; Webhook",
     "slug": "formo",
-    "docs": "https://help.formo.so",
-    "chains": "Ethereum; Arbitrum; Optimism; Base; Polygon"
+    "docs": "https://docs.formo.so",
+    "chains": "Ethereum; Ethereum Sepolia; Arbitrum; Arbitrum Sepolia; Optimism; Optimism Sepolia; Base; Base Sepolia; Polygon; Abstract; BNB Smart Chain; Avalanche; Fantom; Gnosis; Zora; Zora Sepolia; World Chain; Unichain; Unichain Sepolia; Scroll; Scroll Sepolia; Sei; Ink; Ink Sepolia;"
   },
   {
     "id": 13563,
